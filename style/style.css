@@ -17,3 +17,9 @@ header {
 .header-container div span {
     margin: 0 0.7rem;
 }
+
+
+.jumbo-container img {
+    height: 525px;
+    width: 1745px;
+}

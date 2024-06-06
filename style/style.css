@@ -1,0 +1,19 @@
+body {
+    
+}
+
+header {
+    background-color: black;
+}
+
+.header-container {
+    font-size: 1.2rem;
+    color: rgb(186, 188, 190);
+    font-weight: 600;
+    padding: 0.6rem 0;
+    margin: 0 6rem;
+}
+
+.header-container div span {
+    margin: 0 0.7rem;
+}
